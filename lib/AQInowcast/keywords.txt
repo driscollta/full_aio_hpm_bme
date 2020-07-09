@@ -1,0 +1,2 @@
+AQINowCast	KEYWORD1
+calcNowCastAQI	KEYWORD2
